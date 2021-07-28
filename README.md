@@ -1,1 +1,1 @@
-# Prescription-API-
+# Prescription API
