@@ -3,8 +3,8 @@
 
 ## Tools Used
 
-* git
-* python
-* djangorestframework
-* docker
-* travis-ci
+* Git
+* Python
+* Djangorestframework
+* Docker
+* Travis-ci
